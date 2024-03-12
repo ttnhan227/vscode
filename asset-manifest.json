@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/group5_rhythm_house/static/css/main.e14e9491.css",
+    "main.js": "/group5_rhythm_house/static/js/main.25878019.js",
+    "static/js/453.ed3810f9.chunk.js": "/group5_rhythm_house/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/group5_rhythm_house/index.html",
+    "main.e14e9491.css.map": "/group5_rhythm_house/static/css/main.e14e9491.css.map",
+    "main.25878019.js.map": "/group5_rhythm_house/static/js/main.25878019.js.map",
+    "453.ed3810f9.chunk.js.map": "/group5_rhythm_house/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e14e9491.css",
+    "static/js/main.25878019.js"
+  ]
+}
